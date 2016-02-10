@@ -1,3 +1,9 @@
+## Out
+out/
+
+## Vagrant
+.vagrant
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
