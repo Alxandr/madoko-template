@@ -1,6 +1,9 @@
+Package: wallpaper
+
 Title         : Welcome
 Author        : You
 Logo          : True
+Tex Doc Header: \input{tex/header.tex}
 
 [TITLE]
 
