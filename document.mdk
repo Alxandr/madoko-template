@@ -1,10 +1,13 @@
 Pdf Latex: pdflatex
 Package: wallpaper
+Package*: tex/header.tex
+
+Refer: images/header.png
+Refer: images/footer.png
 
 Title         : Welcome
 Author        : You
 Logo          : True
-Tex Doc Header: \input{tex/header.tex}
 
 [TITLE]
 
