@@ -1,7 +1,12 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700&subset=latin,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700|Roboto&subset=latin,latin-ext);
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: "tex-family-T1/roboto-slabs", "roboto-slabs";
+* {
+  font-family: "tex-family-T1/roboto", "Roboto";
+  line-height: 1.5em;
+}
+
+h1, h2, h3, h4, h5, h6, .title {
+  font-family: "tex-family-T1/roboto-slab", "Roboto Slab";
 }
 
 h1 {
@@ -20,4 +25,16 @@ h3 {
   font-size: 16px;
   font-weight: 700;
   color: #283592;
+}
+
+.title  {
+  font-size: 41.333333px;
+  font-weight: 400;
+  color: #283592;
+}
+
+.authorname {
+  font-size: 26.666666px;
+  font-weight: 400;
+  color: #6d64e8;
 }

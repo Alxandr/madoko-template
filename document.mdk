@@ -7,8 +7,8 @@ Refer: images/header.png
 Refer: images/footer.png
 
 Title         : Welcome
-Author        : You
-Logo          : True
+Author        : Aleksander Heintz
+Logo          : False
 
 [TITLE]
 
@@ -20,6 +20,8 @@ with a focus on simplicity and plain text readability.
 * Read the [reference manual].
 * Explore the upper-right toolbox menu to discover how Markdown works.
 * `Alt-Q` reformats the current paragraph.
+
+## Subtitle (h3?)
 
 Enjoy!
 
