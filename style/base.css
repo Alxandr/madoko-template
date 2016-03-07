@@ -1,0 +1,25 @@
+@if html {
+  @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700&subset=latin,latin-ext);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "tex-family-T1/roboto-slabs", "roboto-slabs";
+}
+
+h1 {
+  font-size: 26.66666px;
+  font-weight: 400;
+  color: #e01b84;
+}
+
+h2 {
+  font-size: 21.333333px;
+  font-weight: 400;
+  color: #000000;
+}
+
+h3 {
+  font-size: 16px;
+  font-weight: 700;
+  color: #283592;
+}

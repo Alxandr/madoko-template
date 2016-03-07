@@ -1,6 +1,7 @@
 Pdf Latex: pdflatex
 Package: wallpaper
 Package*: tex/header.tex
+Css: style/base.css
 
 Refer: images/header.png
 Refer: images/footer.png
